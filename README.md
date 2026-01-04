@@ -31,6 +31,6 @@ You'll need to install the following components **manually**, as they are not in
    - License: Apache 2.0  
    - Clone and install per their official guide.
 
-3. **DeepSeek API access**  
+3. **LLM API access**  
    - Sign up at [DeepSeek](https://platform.deepseek.com/) to get your API key.  
    - This project only calls the API via HTTP; no model weights are distributed.
